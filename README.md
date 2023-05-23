@@ -24,3 +24,5 @@ In order to prepare the data for modeling, the following steps were taken:
 * Numerical variables were scaled to ensure consistent ranges.
 * The class imbalance issue were handled using the SMOTE method.
 * Models were constructed to make predictions based on the prepared data.
+## Modeling
+Three different models, including Logistic Regression, Random Forest, and KNeighbors classifier were trained and evaluated using appropriate evaluation metrics such as accuracy, precision, recall, F1 score, and ROC AUC score.
