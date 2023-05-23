@@ -14,3 +14,5 @@ The dataset comprises 3,333 rows and 21 columns, encompassing various call-relat
 Based on domain knowledge, it is advisable to drop certain columns that are not strong predictors of the target variable. For instance, the phone number variable has no relevance to customer churn in the company.
 
 The majority of values in the dataset are numerical. The summary statistics offer a concise summary of the dataset, providing insights into the range of values observed in each numerical column.
+## Requirements
+Python 3.x Required libraries: pandas, numpy, scikit-learn, matplotlib, seaborn
