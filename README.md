@@ -26,5 +26,12 @@ In order to prepare the data for modeling, the following steps were taken:
 * Models were constructed to make predictions based on the prepared data.
 ## Modeling
 Three different models, including Logistic Regression, Random Forest, and KNeighbors classifier were trained and evaluated using appropriate evaluation metrics such as accuracy, precision, recall, F1 score, and ROC AUC score.
+## Results
+After analyzing the ROC curves presented above, it is evident that the Random Forest model outperforms the other two models. 
+The ROC curve of the Random Forest model is positioned closer to the top-left corner, indicating superior performance. This 
+model also showcases the highest area under the curve (AUC), suggesting its superior ability to distinguish between positive 
+and negative classes. The Random Forest model achieves a higher true positive rate and a lower false positive rate, 
+indicating a better balance between sensitivity and specificity. Consequently, the Random Forest model is the most effective 
+and reliable option for predicting the target variable in this particular scenario.
 ## Contributors
 Edwin Nderitu
