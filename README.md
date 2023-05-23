@@ -1,7 +1,8 @@
 # Serialtel-Customer-Churn
+## Enhancing Customer Retention through Data-Driven Strategies
 ![telecom-cx](https://github.com/Eddie-254/Serialtel-Customer-Churn/assets/40391537/e332996a-cbe2-468b-a590-3e4ff10a5b7a)
 
-## Enhancing Customer Retention through Data-Driven Strategies
+
 ## Project Overview:
 The objective of this project is to build a classification model for predicting customer churn in SyriaTel, a telecommunications company. The project follows the CRISP-DM methodology, consisting of six stages: Business Understanding, Data Understanding, Data Preparation, Modeling, Evaluation, and Deployment. Through this project, we aim to gain insights into the patterns and factors influencing customer churn and create a predictive model to help mitigate customer attrition.
 
